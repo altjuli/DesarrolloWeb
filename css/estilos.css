@@ -9,4 +9,6 @@ body {
 h1 { font-weight: bold;
     color: white; 
     padding: 0px; 
+    font-family: 'Playfair Display', serif;
+    text-align: center;
 }
