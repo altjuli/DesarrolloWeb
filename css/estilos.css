@@ -25,12 +25,25 @@ h1 { font-weight: bold;
     align-items: center;
     display: flex;
     justify-content: center;
-    height: 10%;
-    max-width: auto;
+    height: auto;
 }
 
 .avatar__image {
-    height: 10%;
-    width: 10%;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    max-width: 100px;
     border-radius: 50%;
 }
+
+.white_box {  
+    background-color: white;
+    height: auto;
+    max-width: 100%;
+    border: 10px solid white;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
