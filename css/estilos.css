@@ -44,12 +44,12 @@ h1 { font-weight: bold;
     border: 20px solid white;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
     font-family: 'Roboto', sans-serif;
 }
 
