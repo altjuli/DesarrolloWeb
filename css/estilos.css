@@ -124,16 +124,16 @@ h1 { font-weight: bold;
 
 p {
     font-family: 'Roboto', sans-serif;
-    line-height: 0%;
     text-align: center;
 }
 
 h2 {
     font-family: 'Playfair Display', serif;
     text-align: center;
+    line-height: normal;
 }
 
 .progess-bar {
     color: pink;
-    padding: 5%;
+    padding: 10%;
 }
